@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    background-color: #54bfba;
+    color: #f0f2ea;
+}
+
+
+
+/* HEADER SECTION */
+
+.header {
+    overflow: hidden;
+}
+
+h1 {
+    /* float: left; */
+    font-size: 260%; 
+    display: inline-block;  
+    margin-left: 280px; 
+     
+}
+
+/* END HEADER SECTION */
+
+/* NAVIGATION */
+
+
+/* END OF SECTIONS */
+
+/* FOOTER SECTION */
+.footer {
+    overflow: hidden;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.footer p {
+    font-weight: 700;
+}
+/* END FOOTER SECTION */
+
+/* MEDIA QUERIES/RESPONSIVE */
+img{
+    width: 50%;
+    height: 20%;
+    margin-left: 300px;
+    
+}
+
+iframe{
+    margin-left: 150px;
+}
